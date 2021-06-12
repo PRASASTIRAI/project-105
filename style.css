@@ -1,0 +1,33 @@
+body{
+
+    background: rgb(156, 156, 248);
+    color: blue;
+}
+
+.heading{
+
+width:80%;
+
+font-size: x-large;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.name_of_people,#result_person_name,#result_person_accuracy{
+
+color:chartreuse;
+
+
+}
+
+#camera{
+    width:300px;
+    height: 250px;
+
+    border: 2px dashed crimson;
+}
+#result{
+    width: 300px;
+    height:250px;
+
+    border:2px dashed lightcoral
+}
